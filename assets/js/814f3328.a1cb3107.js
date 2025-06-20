@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_weapp_tailwindcss_website=self.webpackChunk_weapp_tailwindcss_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2025/3/v4-release","permalink":"/weapp-tailwindcss/blog/2025/3/v4-release","unlisted":false,"date":"2025-03-05T17:26:06.000Z"}]}')}}]);

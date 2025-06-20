@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_weapp_tailwindcss_website=self.webpackChunk_weapp_tailwindcss_website||[]).push([[2608],{2608:(e,s,w)=>{w.r(s)}}]);

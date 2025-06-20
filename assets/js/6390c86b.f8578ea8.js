@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_weapp_tailwindcss_website=self.webpackChunk_weapp_tailwindcss_website||[]).push([[5652],{8272:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/weapp-tailwindcss/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

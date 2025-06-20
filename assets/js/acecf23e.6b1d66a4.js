@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_weapp_tailwindcss_website=self.webpackChunk_weapp_tailwindcss_website||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/weapp-tailwindcss/blog","blogTitle":"Blog","authorsListPath":"/weapp-tailwindcss/blog/authors"}')}}]);
