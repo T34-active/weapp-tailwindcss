@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_weapp_tailwindcss_website=self.webpackChunk_weapp_tailwindcss_website||[]).push([[1235],{6171:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
